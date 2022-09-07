@@ -1,1 +1,4 @@
-# DRY - Don't repeat yourself
+# DRY - Don't Repeat Yourself
+# DRY - Don't Repeat Yourself
+# DRY - Don't Repeat Yourself
+# DRY - Don't Repeat Yourself
