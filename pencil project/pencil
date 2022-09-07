@@ -1,0 +1,20 @@
+print """
+                                                                                                   ^
+                                                                                                  / \
+                                                                                                 /   \ 
+                                                                                                /     \
+                                                                                               /_______\
+                                                                                              |         | 
+                                                                                              |         |       
+                                                                                              |  0   0  |
+                                                                                              |         |
+                                                                                              |  |   |  |   
+                                                                                              |  |___|  |
+                                                                                              |         |
+                                                                                              |         |
+                                                                                              |xxxxxxxxx|
+                                                                                              |xxxxxxxxx|
+                                                                                              |_________|
+                                                                                              ooooooooooo
+                                                                                              ooooooooooo
+                                                                                               ooooooooo
