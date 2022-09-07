@@ -1,3 +1,10 @@
 print("Hello ninja")
 #updaterdgfdgf
 print("Ninja")
+print("Ninja")
+print("Ninja")
+print("Ninja")
+print("Ninja")
+print("Ninja")
+print("Ninja")
+print("Ninja")
