@@ -16,3 +16,4 @@ while number_of_people > 0:
    print(f"{number_of_people} - New Direction")
    directions()
    number_of_people = number_of_people - 1
+print("Kankan")
