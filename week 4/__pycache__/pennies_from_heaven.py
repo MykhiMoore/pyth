@@ -13,7 +13,7 @@ print(("dollars") + str(dollars))
 print(("quarters") + str(quarters))
 print(("dimes") + str (dimes))
 print(("nickels") + str (nickels))
-print(("pennies") + str(pennies))s
+print(("pennies") + str(pennies)) 
 
 
 
