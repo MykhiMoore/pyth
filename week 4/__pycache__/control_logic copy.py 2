@@ -1,0 +1,18 @@
+char_name = input("What is your name: ").title()
+char_name =  input("what type of adenturer are you? ").title()
+
+def welcome_screen():
+    if (char_name == "Ninja"):
+        print("Hello jay watch them fireballs...")
+    elif(char_name == "bob" or char_name == "builder"):
+        print("I bet you like to build things.")
+    elif(char_name != "Bob" and char_name != "Ninja"):
+        print("hmmm... I dont think we've met.")
+    
+    if(char_name == "bob" or char_name == "Ninja"):
+        print("I figured one of you two would show up.")
+    else:
+        print("We've reached the final else. ")
+
+welcome_screen()
+print(char_name)

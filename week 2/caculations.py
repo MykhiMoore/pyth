@@ -27,5 +27,5 @@ print(my_exponets)
 my_favorite_number = int(input("enter your favorite number: "))
 print(f"your favorite number is: {my_favorite_number}")
 
-my_favorite_number = in(input("enter your favorite number: "))
+my_favorite_number = (input("enter your favorite number: "))
 print(f"your favorite number is: {my_favorite_number}")
